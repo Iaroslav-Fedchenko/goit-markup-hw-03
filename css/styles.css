@@ -1,0 +1,119 @@
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+body {
+    font-family:Roboto, sans-serif;
+    color:#434455;
+    background-color:#FFFFFF;
+}
+.logo {
+    font-family:Raleway, sans-serif;
+    font-weight:700;
+    font-size:18px;
+    line-height:1.17;
+    letter-spacing:0.03em;
+    text-transform:uppercase;
+    color:#4d5ae5;
+}
+.span {
+    color:#2e2f42;
+}
+.spann {
+    color:#f4f4fd;
+}
+.stud {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.stud:hover,
+.stud:focus {
+ color:#404bbf;
+}
+.adres {
+    font-style: normal;
+}
+.link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+.link:hover,
+.link:focus {
+    color: #404bbf;
+}
+.title-section {
+    background-color: #2e2f42;
+}
+.page-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.boton {
+    background-color: #4d5ae5;
+    font-family:"Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.boton:hover {
+    background-color:#404BBF;
+}
+.boton:focus {
+    background-color:#404BBF;
+}
+.list-team {
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.list-worker {
+    font-size: 16px;
+    line-height:1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.section-app {
+    background-color: #F4F4Fd;
+}
+.title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.imgg {
+    background-color: #FFFFFF;
+}
+.list-par {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.par-fut {
+    line-height: 1.5;
+    color: #F4F4Fd;
+    letter-spacing: 0.02em;
+}
+.pic {
+    background-color: #FFFFFF;
+}
